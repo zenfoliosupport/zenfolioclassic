@@ -217,11 +217,13 @@ h1 {
 
 h2 {
   font-size: 22px;
+  color: #344a9a;
 }
 
 h3 {
   font-size: 18px;
   font-weight: 600;
+  color: #e23c95;
 }
 
 h4 {
@@ -1221,9 +1223,9 @@ ul {
 /***** Hero component *****/
 .hero {
   background-image: url($homepage_background_image);
-  background-position: center;
+  background-position: top center;
   background-size: cover;
-  height: 300px;
+  height: 350px;
   padding: 0 20px;
   text-align: center;
   width: 100%;
