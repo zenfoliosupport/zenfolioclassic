@@ -37,6 +37,13 @@
           "value": "rgba(52, 74, 154, 1)"
         },
         {
+          "identifier": "hover_link_color",
+          "type": "color",
+          "description": "hover_link_color_description",
+          "label": "hover_link_color_label",
+          "value": "#0F3554"
+        },
+        {
           "identifier": "visited_link_color",
           "type": "color",
           "description": "visited_link_color_description",
